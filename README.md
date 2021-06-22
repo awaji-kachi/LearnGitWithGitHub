@@ -8,3 +8,5 @@ Practice repository for LearnGitWithGitHub students.
 4. Enter a message (This can be a simple thank you, or a comment about the class)
 5. Push changes to your GitHub repo.
 6. Initiate a pull request.
+
+Thanks for the wonderful lessons - LGWK :)
