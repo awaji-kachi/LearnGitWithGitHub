@@ -11,5 +11,10 @@ Practice repository for LearnGitWithGitHub students.
 7. Initiate a pull request on my repository.
 8. Wait patiently
 
+
 Sample Message
 Hi, Kash. Thanks for a wonderful class. - HP
+
+
+Thank you very much i really needed this. it will help me in my project. I cant thank you enough.
+Thanks gan ni.
