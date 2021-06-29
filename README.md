@@ -13,3 +13,5 @@ Practice repository for LearnGitWithGitHub students.
 
 Sample Message
 Hi, Kash. Thanks for a wonderful class. - HP
+
+Thanks a lot man...
