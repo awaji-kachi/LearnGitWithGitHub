@@ -18,3 +18,6 @@ Hi, Kash. Thanks for a wonderful class. - HP
 
 Thank you very much i really needed this. it will help me in my project. I cant thank you enough.
 Thanks gan ni.
+
+
+The simplicity for this tutorial is quite apreciated. Thanks for your work - Nnaji Samuel.
